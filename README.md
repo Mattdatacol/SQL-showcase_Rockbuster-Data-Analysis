@@ -1,2 +1,3 @@
-# SQL_data_analysis
+# SQL-showcase_Rockbuster-Data-Analysis
+
 A simple repository to showcase some SQL requests I was able to write in order to retrieve the right data before using it in Tableau.
