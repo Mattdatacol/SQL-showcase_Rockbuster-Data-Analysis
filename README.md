@@ -16,7 +16,7 @@ Working as a data analyst in Rockbuster Stealth’s business intelligence (BI) d
  
 ## Data set & tools
 
-- Source: [postgresqltutorial.com](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+- Source: [postgresqltutorial.com](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 - RDBMS: [PostgreSQL](https://www.postgresql.org/) and [DbVisualizer](https://www.dbvis.com/)
 
