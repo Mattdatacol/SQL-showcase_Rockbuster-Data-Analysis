@@ -16,8 +16,16 @@ Working as a data analyst in Rockbuster Stealth’s business intelligence (BI) d
  
 ## Data set & tools
 
-Source : [postgresqltutorial.com](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+- Source: [postgresqltutorial.com](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-RDBMS : [PostgreSQL](https://www.postgresql.org/) and [DbVisualizer](https://www.dbvis.com/)
+- RDBMS: [PostgreSQL](https://www.postgresql.org/) and [DbVisualizer](https://www.dbvis.com/)
 
-![ERD](	/assets/images/ERD.png)
+- ERD:
+
+Simplified organic ERD to see the schema of the database:
+![Simplified organic ERD:](https://github.com/Mattdatacol/SQL-showcase_Rockbuster-Data-Analysis/blob/400f740a577129c7ecdbd7973538b36a76631f14/images/ERD-Rockbuster-Organic.png)
+There are two main snowflakes, the primary around the rental table and then a secondary around the film table
+
+Full ERD with all tables and variables:
+![Full ERD](https://github.com/Mattdatacol/SQL-showcase_Rockbuster-Data-Analysis/blob/400f740a577129c7ecdbd7973538b36a76631f14/images/ERD%20Rockbuster.png)
+The Entity Relationship Diagram accounts for all 15 tables and promary keys used.
