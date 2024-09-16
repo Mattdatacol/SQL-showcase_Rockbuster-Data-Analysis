@@ -43,3 +43,5 @@ The Entity Relationship Diagram accounts for all 15 tables and primary keys used
 
 
 ## [Link to Tableau with the graphs and Choropleth maps created from the queries](https://public.tableau.com/views/3_10Rockbusterfinal/Story1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## [Final Presentation](Final_Presentation/Slide rockbuster.pdf)
