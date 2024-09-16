@@ -28,7 +28,7 @@ There are two main snowflakes, the primary around the rental table and then a se
 
 Full ERD with all tables and variables:
 ![Full ERD](https://github.com/Mattdatacol/SQL-showcase_Rockbuster-Data-Analysis/blob/400f740a577129c7ecdbd7973538b36a76631f14/images/ERD%20Rockbuster.png)
-The Entity Relationship Diagram accounts for all 15 tables and promary keys used.
+The Entity Relationship Diagram accounts for all 15 tables and primary keys used.
 
 
 ## Links to the SQL queries
