@@ -33,7 +33,7 @@ The Entity Relationship Diagram accounts for all 15 tables and primary keys used
 
 ## Links to the SQL queries
 - [Data cleaning](Queries/Data_cleaning.md)
-- [Grouping & Aggregations](Queries/Grouping&aggregations)
+- [Grouping & Aggregations](Queries/Grouping&aggregations.md)
 - [Joins](Queries/Joins.md)
 - [Subqueries](Queries/Subqueries.md)
 - [CTEs](Queries/CTEs.md)
