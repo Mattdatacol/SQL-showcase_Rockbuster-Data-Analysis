@@ -1,6 +1,6 @@
 # SQL-showcase_Rockbuster-Data-Analysis
 
-## Context
+## 1. Context
 
 The fictional Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
@@ -14,7 +14,7 @@ Working as a data analyst in Rockbuster Stealth’s business intelligence (BI) d
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
  
-## Data set & tools
+## 2. Data set & tools
 
 - Source: [postgresqltutorial.com](https://www.postgresqltutorial.com/) - *[(dowload dataset)](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)*
 
@@ -31,7 +31,7 @@ Full ERD with all tables and variables:
 The Entity Relationship Diagram accounts for all 15 tables and primary keys used.
 
 
-## Links to the SQL queries
+## 3. Links to the SQL queries
 - [Data cleaning](Queries/Data_cleaning.md)
 - [Grouping & Aggregations](Queries/Grouping&aggregations.md)
 - [Joins](Queries/Joins.md)
@@ -42,6 +42,6 @@ The Entity Relationship Diagram accounts for all 15 tables and primary keys used
 > No database manipulation other than selections were used since the data was already clean
 
 
-## [Link to Tableau with the graphs and Choropleth maps created from the queries](https://public.tableau.com/views/3_10Rockbusterfinal/Story1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 4. [Link to Tableau with the graphs and Choropleth maps created from the queries](https://public.tableau.com/views/3_10Rockbusterfinal/Story1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## [Final Presentation](Final_Presentation/Slide rockbuster.pdf)
+## 5. [Final Presentation](https://github.com/Mattdatacol/SQL-showcase_Rockbuster-Data-Analysis/blob/774e724517fb7507a294633027a13fba3235eb79/Final_Presentation/Slide%20rockbuster.pdf)
