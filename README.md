@@ -1,4 +1,4 @@
-# SQL-showcase_Rockbuster-Data-Analysis
+# SQL-showcase_Rockbuster-Data-Analysis :film_strip:
 
 ## 1. Context
 
