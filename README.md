@@ -32,10 +32,11 @@ The Entity Relationship Diagram accounts for all 15 tables and primary keys used
 
 
 ## Links to the SQL queries
-- Data cleaning
-- grouping/Aggregations
-- Subqueries
-- CTEs
+- [Data cleaning](Queries/Data_cleaning.md)
+- [Grouping & Aggregations](Queries/Grouping&aggregations)
+- [Subqueries](Queries/Subqueries.md)
+- [CTEs](Queries/CTEs.md)
+  
 > [!NOTE]
 > No database manipulation other than selections were used since the data was already clean
 
