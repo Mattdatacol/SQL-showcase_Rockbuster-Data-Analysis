@@ -19,7 +19,9 @@ Working as a data analyst in Rockbuster Stealth’s business intelligence (BI) d
 - Source: [postgresqltutorial.com](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database) - *[(dowload dataset)](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)*
 
 - RDBMS: [PostgreSQL](https://www.postgresql.org/) and [DbVisualizer](https://www.dbvis.com/)
-
+  
+- [Homemade Data Dictionary](Final_Presentation/20240515_DATA_Dictionary_Matthieu.pdf)
+  
 - ERD:
 
 Simplified organic ERD to see the schema of the database:
